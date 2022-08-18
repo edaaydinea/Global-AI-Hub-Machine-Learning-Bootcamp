@@ -6,6 +6,7 @@
   - [Geleneksel Programlama vs. Makine Öğrenmesi](#geleneksel-programlama-vs-makine-öğrenmesi)
     - [Geleneksel Programlama](#geleneksel-programlama)
     - [Makine Öğrenmesi](#makine-öğrenmesi)
+  - [Makine Öğrenmesi Tipleri](#makine-öğrenmesi-tipleri)
 
 
 ## Makine Öğrenmesi Nedir?
@@ -22,4 +23,16 @@
 
 ### Makine Öğrenmesi
 - Bilgisayarınıza input ve output verinizi verirsiniz. Bilgisayar sizin için bu iki veri arasındaki kuralı belirler ve sonraki kullanımlarda input verileriniz bu kurallardan geçer.
--  
+
+## Makine Öğrenmesi Tipleri
+
+- Supervised Learning
+  - Classification
+    - k-nearest neigbbors
+    - Support Vector Machines
+    - Decision Tree
+  - Regression
+    - Linear Regression
+    - Logistics Regression
+- Semi-Supervised
+  - Deep 
